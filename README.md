@@ -235,4 +235,4 @@ This repository serves as the official landing page for EPUBReader. The software
 **Get the most recent version of EPUBReader today!**
 
 ---
-**Last updated:** 2026-10-20 16:42:55 UTC
+**Last updated:** 2026-10-20 20:23:41 UTC
